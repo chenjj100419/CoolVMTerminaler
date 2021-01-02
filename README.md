@@ -5,4 +5,4 @@
 
 ### 思维导图:
 
-![Mind](assets\png\mind.png)
+![Mind](assets/png/mind.png)
