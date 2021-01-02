@@ -5,4 +5,4 @@
 
 ### 思维导图:
 
-![Mind](assets/png/mind.png)
+![mind.png](https://i.loli.net/2021/01/02/D2defakQjPwVO9S.png)
